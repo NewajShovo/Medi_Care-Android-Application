@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>D-PAM</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>DIAZEMET</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>EASIUM</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>EASIUM Injection</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>EASIUM Suppository</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>EVALIN</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>G-DIAZEPAM</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>G-DIAZEPAM Injection</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>PHARMAPAM</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>RELAXEN</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>SEDAPAN</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>SEDATAB</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>SEDIL 5</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>SEDIL INJ</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>SEDUXEN</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>SEDUXEN Injection</medicine>
+	</check>
+	<check>
+		<genre>Diazepam</genre>
+		<medicine>TENSAREAL</medicine>
+	</check>
+</data-set>
